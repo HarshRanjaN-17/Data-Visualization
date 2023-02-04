@@ -1,3 +1,7 @@
 # Data Visualization
 
-- Data visulization using : - matplotlib - Pandas - Seaborn
+## Data visulization using :
+
+        - matplotlib
+        - Pandas
+        - Seaborn
